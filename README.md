@@ -11,7 +11,8 @@ Run pip install -r requirements.txt
 python3 distance.py
 
 line 31: path to input image
-line 34: width of reference object **IMPORTANT
+
+**IMPORTANT line 34: width of reference object
 
 # Directory Structure
 
